@@ -1,0 +1,12 @@
+A képek egy MySQL adatbázisban tárolódnak.
+Az adatbázis kezelőt local futtattam (XAMPP->MySQL).
+A szükséges dependencie-kkel a pom.xml ki lett egészítve.
+Az application.properties be lett állítva.
+
+Adatbázis neve: ponte
+Tábla neve: image
+
+Az adatbázis és a tábla létrehozását az sql könyvtárban található
+ponte-image.sql tartalmazza.
+
+
